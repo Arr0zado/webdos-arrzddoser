@@ -167,7 +167,7 @@ echo -e " ║$yellow 9: Nine DDOS attack                                        
 echo -e " ║$yellow 10: Ten DDOS attack                                            $nc║"
 echo " ╚════════════════════════════════════════════════════════════════╝"
 echo 
-read -p " ENTER NUMBER OF TERMINALS: "
+read -p " ENTER NUMBER OF TERMINALS: " SA
 
 
 
